@@ -1,0 +1,36 @@
+
+
+
+.container{
+    background: rgb(166, 247, 234);
+    display: grid;
+}
+.row{
+    text-align: center;
+}
+.thumbnail{
+          padding: 10px;  
+}   
+
+.thumbnail1{
+    padding: 10px 20px;  
+    text-align: center;
+    border-style: double;
+    margin: 35px 150px;
+    background-color: aqua;
+}   
+img{
+    border-radius: 60%;
+}
+.caption{
+    text-align: center;
+    padding: 20px 20px;
+    background-color:rgb(234, 247, 255);
+  
+    }
+    .text-center{
+        text-align: center;
+    }
+    footer{
+        padding-top: 10px;
+    }
